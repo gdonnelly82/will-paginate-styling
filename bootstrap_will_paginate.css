@@ -89,3 +89,26 @@
     border-top-right-radius: .2rem;
     border-bottom-right-radius: .2rem
 }
+
+
+
+@media only screen and (max-width: 600px) {
+
+  .pagination li {
+    display: none;
+  }
+  .pagination li.active {
+    display: inline;
+  }
+  .pagination li:first-child {
+    display: inline;
+  }
+  .pagination li:last-child {
+    display: inline;
+  }
+
+  .pagination li:nth-last-child(2) {
+    display: inline;
+  }
+
+}
