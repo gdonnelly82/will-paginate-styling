@@ -1,4 +1,4 @@
-# will-paginate-bootstrap-styling
+# Will_Paginate Styling to look like Bootstrap
 
 The styling in the file is the exact styling to make it look like bootstrap.
 
